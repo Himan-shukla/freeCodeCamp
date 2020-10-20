@@ -27,7 +27,7 @@ Our learning platform runs on a modern JavaScript stack. It has various componen
 
 Broadly, we use 
 
-- a Node.js based API server
+- a *Node.js* based API server
 - a set of React-based client applications
 - and testing scripts to evaluate camper-submitted curriculum projects.
 
