@@ -7,8 +7,8 @@ Happy contributing.
 
 You are welcome to:
 
-- __Create, update and fix bugs in our__ [curriculum](#curriculum).
-- __Help us fix bugs in freeCodeCamp.org's__ [learning platform](#learning-platform).
+- Create, update and fix bugs in our [curriculum](#curriculum).
+- Help us fix bugs in freeCodeCamp.org's [learning platform](#learning-platform).
 - _(Coming Soon)_ Help us translate freeCodeCamp.org to world languages.
 
 We answer the most common questions about contributing [in our contributor FAQ](/FAQ.md).
